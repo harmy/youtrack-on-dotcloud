@@ -21,3 +21,8 @@ How To Use It (In Your App)
 Add the ``dotcloud.yml`` supplied here to your own ``dotcloud.yml``,
 and copy the ``youtrack`` directory to your repository as well. Push as
 usual. Enjoy Continuous Integration.
+
+
+Demo
+-------
+<http://youtrack-on.dotcloud.com>
