@@ -1,0 +1,10 @@
+#!/bin/sh
+if [ -f ~/youtrack.jar ]
+then
+	echo 'Found youtrack installation.'
+else
+	echo 'Installing youtrack.'
+	wget -O ~/youtrack.jar http://download.jetbrains.com/charisma/youtrack-4.0.2.jar
+fi
+echo 'Installing dotCloud scaffolding.'
+cp -a youtrack/. ~

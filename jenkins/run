@@ -1,3 +1,0 @@
-#!/bin/bash
-export JENKINS_HOME=~/data/jenkins
-exec java -Xmx512m -Dfile.encoding=UTF8 -jar ~/jenkins.war --httpPort=$PORT_WWW

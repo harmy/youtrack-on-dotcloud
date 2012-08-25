@@ -1,0 +1,2 @@
+#!/bin/bash
+exec java -Xmx512m -Dfile.encoding=UTF8 -jar ~/youtrack.jar --httpPort=$PORT_WWW

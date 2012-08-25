@@ -1,6 +1,6 @@
-jenkins:
+youtrack:
     type: custom
-    buildscript: jenkins/builder
+    buildscript: youtrack/builder
     ports:
         www: http
     process: ~/run
