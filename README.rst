@@ -25,4 +25,4 @@ usual. Enjoy Continuous Integration.
 
 Demo
 -------
-<http://youtrack-on.dotcloud.com>
+http://youtrack-on.dotcloud.com
