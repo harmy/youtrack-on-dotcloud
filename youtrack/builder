@@ -4,7 +4,7 @@ then
 	echo 'Found youtrack installation.'
 else
 	echo 'Installing youtrack.'
-	wget -O ~/youtrack.jar http://download.jetbrains.com/charisma/youtrack-4.0.2.jar
+	wget -O ~/youtrack.jar http://download.jetbrains.com/charisma/youtrack-4.0.4.jar
 fi
 echo 'Installing dotCloud scaffolding.'
 cp -a youtrack/. ~
